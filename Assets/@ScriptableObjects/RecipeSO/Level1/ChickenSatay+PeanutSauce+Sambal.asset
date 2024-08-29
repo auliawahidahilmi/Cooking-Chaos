@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bc8e78076f7bb47894253fa280c634, type: 3}
+  m_Name: ChickenSatay+PeanutSauce+Sambal
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 585916bc8bb0eb54ba3b6f5597c1bebf, type: 2}
+  - {fileID: 11400000, guid: 69f5a733034f90e4ea9955bedb58ecb8, type: 2}
+  - {fileID: 11400000, guid: d0380637a90a9b240ac4f7ca3ab67d4b, type: 2}
+  recipeName: Chicken Satay peanut sauce and Sambal
+  AddedCoin: 60
